@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Poke List</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="card_type_content_description_image_pokemon_type">Imagem do tipo do pokemon</string>
+    <string name="all_poketype_eletric">Elétrico</string>
+    <string name="pokedetails_content_description_back_button">Botão de voltar</string>
+    <string name="pokedetails_content_description_favorite_button">Bottão de favoritar</string>
+</resources>
